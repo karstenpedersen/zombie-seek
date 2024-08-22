@@ -1,0 +1,1 @@
+global.wave_ = spawn_cycles/25;
